@@ -1,0 +1,25 @@
+{
+  "name": "babel-preset-import-export",
+  "version": "1.0.0",
+  "description": "Babel preset module only for import and export functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirJeo/babel-preset-import-export.git"
+  },
+  "keywords": [
+    "babel",
+    "preset",
+    "import",
+    "export"
+  ],
+  "author": "Serhiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirJeo/babel-preset-import-export/issues"
+  },
+  "homepage": "https://github.com/sirJeo/babel-preset-import-export#readme"
+}
